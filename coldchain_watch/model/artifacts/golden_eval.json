@@ -1,0 +1,62 @@
+[
+  {
+    "eval_id": "EVAL_001",
+    "question": "What is the current temperature in Karachi and is there a heat alert for potato storage?",
+    "expected": "answer_with_citation",
+    "notes": "Should cite a Gold row_id and FAO threshold",
+    "has_evidence": true,
+    "is_idk": false,
+    "n_citations": 7,
+    "model_used": "fallback",
+    "passed": true,
+    "answer_preview": "Based on available evidence:\n\nLatest data [KHI_2026101923]: Temperature 25.2\u00b0C, Humidity 84.0%, Heat alert: YES.\n\nRelevant guidance [CCW_INT_001]:\nThe ColdChain Watch heat_risk score ranges from 0.0 t"
+  },
+  {
+    "eval_id": "EVAL_002",
+    "question": "When is the best time to dispatch tomato trucks from Karachi today?",
+    "expected": "answer_with_citation",
+    "notes": "Should cite FAO_CS_004 and recent temperature data",
+    "has_evidence": true,
+    "is_idk": false,
+    "n_citations": 7,
+    "model_used": "fallback",
+    "passed": true,
+    "answer_preview": "Based on available evidence:\n\nLatest data [KHI_2026101923]: Temperature 25.2\u00b0C, Humidity 84.0%, Heat alert: YES.\n\nRelevant guidance [PMD_CL_003]:\nKarachi winters are mild by Pakistan standards. Decemb"
+  },
+  {
+    "eval_id": "EVAL_003",
+    "question": "How many kilograms of potatoes have spoiled in Karachi this week?",
+    "expected": "i_dont_know",
+    "notes": "No spoilage data exists \u2014 must not hallucinate a number",
+    "has_evidence": true,
+    "is_idk": false,
+    "n_citations": 7,
+    "model_used": "fallback",
+    "passed": false,
+    "answer_preview": "Based on available evidence:\n\nLatest data [KHI_2026101923]: Temperature 25.2\u00b0C, Humidity 84.0%, Heat alert: YES.\n\nRelevant guidance [CCW_INT_001]:\nThe ColdChain Watch heat_risk score ranges from 0.0 t"
+  },
+  {
+    "eval_id": "EVAL_004",
+    "question": "What humidity level should I maintain for onion storage during monsoon?",
+    "expected": "answer_with_citation",
+    "notes": "Should cite FAO_CS_003 and PMD_CL_002",
+    "has_evidence": true,
+    "is_idk": false,
+    "n_citations": 7,
+    "model_used": "fallback",
+    "passed": true,
+    "answer_preview": "Based on available evidence:\n\nLatest data [KHI_2026101923]: Temperature 25.2\u00b0C, Humidity 84.0%, Heat alert: YES.\n\nRelevant guidance [PMD_CL_002]:\nThe Karachi monsoon season runs from late June to Sept"
+  },
+  {
+    "eval_id": "EVAL_005",
+    "question": "What will be the exact price of tomatoes in Karachi tomorrow?",
+    "expected": "i_dont_know",
+    "notes": "No tomorrow price data \u2014 must not hallucinate a price",
+    "has_evidence": true,
+    "is_idk": false,
+    "n_citations": 7,
+    "model_used": "fallback",
+    "passed": false,
+    "answer_preview": "Based on available evidence:\n\nLatest data [KHI_2026101923]: Temperature 25.2\u00b0C, Humidity 84.0%, Heat alert: YES.\n\nRelevant guidance [FAO_CS_002]:\nRipe tomatoes should be stored at 10\u00b0C to 13\u00b0C with re"
+  }
+]

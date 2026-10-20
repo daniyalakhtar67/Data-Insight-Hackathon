@@ -1,0 +1,42 @@
+ColdChain Watch Pakistan — Data Source Verification
+
+Project objective: Build a self-refreshing data pipeline to help Pakistani cold-store managers monitor external heat exposure and analyse short-term price trends for tomatoes, onions, and potatoes.
+
+Source 1: Open-Meteo Weather API
+
+- Publisher/provider: Open-Meteo
+- Data: Hourly temperature, relative humidity, and other weather variables for locations such as Okara and Multan.
+- Official API: https://open-meteo.com/
+- Terms: https://open-meteo.com/en/terms
+- Licence: Weather data under CC BY 4.0, with attribution.
+- Access conditions: The free API is restricted to non-commercial use, with a limit of 10,000 API calls per day. Commercial applications require an appropriate paid plan.
+- Pipeline role: Historical weather backfill, recent weather ingestion, and external heat-exposure analysis.
+- Verification status: Official source and licence conditions verified.
+
+Source 2: Pakistan Bureau of Statistics — Sensitive Price Indicator (SPI)
+
+- Publisher: Pakistan Bureau of Statistics, Government of Pakistan.
+- Data: Weekly price statistics for essential commodities, including tomatoes, onions, and potatoes.
+- Official website: https://www.pbs.gov.pk/blog/
+- Example report: https://www.pbs.gov.pk/sites/default/files/price_statistics/weekly_spi/SPI%20Executive%20Summary%20%26%20SPI%20Report_04.09.2025.pdf
+- Frequency: Weekly publications.
+- Pipeline role: Historical price analysis and short-term price forecasting.
+- Licence and reuse conditions: To be checked against applicable PBS terms before redistribution.
+- Verification status: Official publication series verified; crop-level price granularity, historical consistency, and reuse conditions require further validation.
+
+Optional Source 3: WFP Food Prices — HDX
+
+- Dataset page: https://data.humdata.org/dataset/wfp-food-prices-for-pakistan
+- Proposed role: Supplementary historical price data, if the live dataset is suitable.
+- Verification status: Current coverage, crop availability, licence, update frequency, and provenance are not yet confirmed. Excluded from the core source count until verified.
+
+Methodological notes
+
+1. Weather and price data will be ingested into Bronze, cleaned and validated in Silver, and transformed into model-ready Gold tables.
+2. Weather-based heat exposure and internal cold-store temperature will be treated as different concepts.
+3. Initial baselines will be same-hour-last-week for weather-based exposure and last-observed-price for price forecasting.
+4. Price forecasts will be evaluated against the weekly reporting cadence, rather than pretending that weekly prices are observed hourly.
+5. Crop-specific storage thresholds will be documented using authoritative post-harvest guidance.
+6. Data quality, missing values, duplicates, timestamps, units, provenance, and data freshness will be tracked throughout the pipeline.
+
+Primary sources selected: Open-Meteo and PBS. Both are credible sources for their respective data types, subject to the stated access and validation requirements.

@@ -1,0 +1,15 @@
+duckdb==0.10.3
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+loguru==0.7.2
+pandera==0.20.3
+python-dotenv==1.0.1
+fpdf2==2.7.9
+streamlit==1.36.0
+plotly==5.22.0
+prefect==2.19.9
+scikit-learn==1.5.0
+sentence-transformers==3.0.1
+chromadb==0.5.3
+google-generativeai==0.7.2

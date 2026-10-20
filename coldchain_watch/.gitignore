@@ -1,0 +1,210 @@
+# =============================================================================
+# ColdChain Watch Pakistan — .gitignore
+# HackInsight 2026 · Data-to-Decision
+# =============================================================================
+# Rules:
+#   TRACK   → source code, configs, pre-built Gold/artifacts needed for demo
+#   IGNORE  → secrets, large raw files, build artifacts, OS/IDE clutter
+# =============================================================================
+
+
+# -----------------------------------------------------------------------------
+# SECRETS — never commit, never push
+# -----------------------------------------------------------------------------
+.env
+*.key
+*.pem
+*.p12
+secrets.json
+credentials.json
+
+
+# -----------------------------------------------------------------------------
+# BRONZE LAYER — raw API responses (large, fully reproducible via `make ingest`)
+# Re-fetched automatically each run, no need to version-control
+# -----------------------------------------------------------------------------
+data/bronze/
+
+
+# -----------------------------------------------------------------------------
+# SILVER LAYER — intermediate cleaned data (reproducible via `make silver`)
+# Derived from Bronze, not needed for dashboard or submission
+# -----------------------------------------------------------------------------
+data/silver/
+
+
+# -----------------------------------------------------------------------------
+# DUCKDB WAREHOUSE — binary database file (large, fully regeneratable)
+# Dashboard reads from Parquet files, not the .duckdb directly
+# -----------------------------------------------------------------------------
+data/*.duckdb
+data/*.db
+
+
+# -----------------------------------------------------------------------------
+# MODEL PICKLE FILES — large binary artifacts (30–32 MB each)
+# Too large for standard GitHub, regenerate with `make model`
+# Keep the small CSV/JSON metrics files (tracked below)
+# -----------------------------------------------------------------------------
+model/artifacts/*.pkl
+model/artifacts/*.joblib
+
+
+# -----------------------------------------------------------------------------
+# RAG STORE — numpy vector arrays (binary, regeneratable via `make index`)
+# The vectorizer .pkl files are also ignored (same reason)
+# -----------------------------------------------------------------------------
+data/rag_store/*.npy
+data/rag_store/*.pkl
+
+
+# -----------------------------------------------------------------------------
+# TEMPORARY TEST FILES — created during development, not part of submission
+# -----------------------------------------------------------------------------
+test_gemini.py
+test_api.py
+inspect_gold.py
+inspect_dashboard_data.py
+check_runs.py
+
+
+# -----------------------------------------------------------------------------
+# PYTHON RUNTIME ARTIFACTS
+# -----------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+*.whl
+
+
+# -----------------------------------------------------------------------------
+# VIRTUAL ENVIRONMENTS
+# -----------------------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.virtualenv/
+
+
+# -----------------------------------------------------------------------------
+# JUPYTER NOTEBOOKS — checkpoints and output cells
+# -----------------------------------------------------------------------------
+.ipynb_checkpoints/
+*.ipynb
+
+
+# -----------------------------------------------------------------------------
+# PYTEST AND TESTING
+# -----------------------------------------------------------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+.hypothesis/
+test-results/
+
+
+# -----------------------------------------------------------------------------
+# MYPY AND TYPE CHECKING
+# -----------------------------------------------------------------------------
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+
+# -----------------------------------------------------------------------------
+# OPERATING SYSTEM FILES
+# -----------------------------------------------------------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+
+# -----------------------------------------------------------------------------
+# IDE AND EDITOR FILES
+# -----------------------------------------------------------------------------
+
+# VS Code / Kiro
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+Session.vim
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+
+# -----------------------------------------------------------------------------
+# LOGS — runtime logs are regenerated each pipeline run
+# Keep the log directory structure but ignore the actual log files
+# -----------------------------------------------------------------------------
+data/logs/*.log
+
+
+# -----------------------------------------------------------------------------
+# WHAT IS TRACKED (for clarity — these are NOT ignored)
+# -----------------------------------------------------------------------------
+# Source code:          pipeline/*.py, model/train.py, rag/*.py, genai/*.py
+# Dashboard:            dashboard/app.py
+# Config:               pipeline/config.py, requirements.txt, Makefile
+# Gold data:            data/gold/*.parquet          (needed for dashboard)
+# Manifest:             data/manifest.csv            (submission requirement)
+# Pipeline runs:        data/pipeline_runs.csv       (prefect_runs.csv)
+# Last run status:      data/last_run.json           (dashboard freshness panel)
+# Model metrics:        model/artifacts/*.json       (performance evidence)
+# Model metrics:        model/artifacts/*.csv        (errors by group)
+# Model card:           model/model_card.md          (submission requirement)
+# RAG metadata:         data/rag_store/*.json        (citation metadata)
+# RAG vectorizer:       NOT tracked (*.pkl ignored)  (regenerate with make index)
+# Documents:            rag/documents.py             (reference library)
+# AI use log:           AI_use_log.md                (submission requirement)
+# Example env:          .env.example                 (safe, no real keys)

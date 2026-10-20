@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp_utc": "2026-10-20T05:22:14Z",
+    "city": "Karachi",
+    "column": "temp_cross_mismatch",
+    "rule": "cross_source_validation",
+    "action": "flag",
+    "rows_affected": 26,
+    "reason": "Open-Meteo and NASA POWER disagree by more than threshold for 26 rows (max diff: 5.92). Both sources are credible \u2014 the disagreement indicates measurement uncertainty. Rows flagged with is_flagged=True. Primary column uses Open-Meteo value.",
+    "value_before": "",
+    "value_after": ""
+  },
+  {
+    "timestamp_utc": "2026-10-20T05:22:14Z",
+    "city": "Karachi",
+    "column": "humidity_cross_mismatch",
+    "rule": "cross_source_validation",
+    "action": "flag",
+    "rows_affected": 1124,
+    "reason": "Open-Meteo and NASA POWER disagree by more than threshold for 1124 rows (max diff: 53.0). Both sources are credible \u2014 the disagreement indicates measurement uncertainty. Rows flagged with is_flagged=True. Primary column uses Open-Meteo value.",
+    "value_before": "",
+    "value_after": ""
+  }
+]

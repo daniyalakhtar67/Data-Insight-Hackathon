@@ -1,0 +1,1682 @@
+[
+  {
+    "row_id": "KHI_2026101300",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 00:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 86.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101300 (Karachi, 2026-10-13 05:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 31.1 degrees humidex 37.6 humidity 86 percent wind 8.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.2. 24h max temperature: 32.2."
+  },
+  {
+    "row_id": "KHI_2026101301",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 01:00:00+00:00",
+    "temp_c": 26.3,
+    "humidity_pct": 86.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101301 (Karachi, 2026-10-13 06:00 PKT, autumn season): temperature 26.3 degrees celsius feels like 30.9 degrees humidex 37.4 humidity 86 percent wind 8.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.1. 24h max temperature: 32.2."
+  },
+  {
+    "row_id": "KHI_2026101302",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 02:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101302 (Karachi, 2026-10-13 07:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 31.1 degrees humidex 37.4 humidity 85 percent wind 8.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.1. 24h max temperature: 32.2."
+  },
+  {
+    "row_id": "KHI_2026101303",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 03:00:00+00:00",
+    "temp_c": 27.9,
+    "humidity_pct": 79.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101303 (Karachi, 2026-10-13 08:00 PKT, autumn season): temperature 27.9 degrees celsius feels like 32.9 degrees humidex 39.1 humidity 79 percent wind 6.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.74, onion=1.00. Rolling mean temperature 6h: 26.4. 24h max temperature: 32.2."
+  },
+  {
+    "row_id": "KHI_2026101304",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 04:00:00+00:00",
+    "temp_c": 30.7,
+    "humidity_pct": 64.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101304 (Karachi, 2026-10-13 09:00 PKT, autumn season): temperature 30.7 degrees celsius feels like 35.2 degrees humidex 41.1 humidity 64 percent wind 6.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.89, onion=1.00. Rolling mean temperature 6h: 27.2. 24h max temperature: 32.2."
+  },
+  {
+    "row_id": "KHI_2026101305",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 05:00:00+00:00",
+    "temp_c": 33.4,
+    "humidity_pct": 50.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101305 (Karachi, 2026-10-13 10:00 PKT, autumn season): temperature 33.4 degrees celsius feels like 37.2 degrees humidex 42.3 humidity 50 percent wind 5.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 28.5. 24h max temperature: 33.4."
+  },
+  {
+    "row_id": "KHI_2026101306",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 06:00:00+00:00",
+    "temp_c": 34.8,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101306 (Karachi, 2026-10-13 11:00 PKT, autumn season): temperature 34.8 degrees celsius feels like 39.0 degrees humidex 42.7 humidity 43 percent wind 4.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 29.9. 24h max temperature: 34.8."
+  },
+  {
+    "row_id": "KHI_2026101307",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 07:00:00+00:00",
+    "temp_c": 35.7,
+    "humidity_pct": 40.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101307 (Karachi, 2026-10-13 12:00 PKT, autumn season): temperature 35.7 degrees celsius feels like 40.1 degrees humidex 43.3 humidity 40 percent wind 5.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 31.5. 24h max temperature: 35.7."
+  },
+  {
+    "row_id": "KHI_2026101308",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 08:00:00+00:00",
+    "temp_c": 36.3,
+    "humidity_pct": 39.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101308 (Karachi, 2026-10-13 13:00 PKT, autumn season): temperature 36.3 degrees celsius feels like 40.6 degrees humidex 44.0 humidity 39 percent wind 8.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 33.1. 24h max temperature: 36.3."
+  },
+  {
+    "row_id": "KHI_2026101309",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 09:00:00+00:00",
+    "temp_c": 36.4,
+    "humidity_pct": 40.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101309 (Karachi, 2026-10-13 14:00 PKT, autumn season): temperature 36.4 degrees celsius feels like 40.1 degrees humidex 44.5 humidity 40 percent wind 10.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.5. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101310",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 10:00:00+00:00",
+    "temp_c": 36.0,
+    "humidity_pct": 41.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101310 (Karachi, 2026-10-13 15:00 PKT, autumn season): temperature 36.0 degrees celsius feels like 38.5 degrees humidex 44.2 humidity 41 percent wind 13.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 35.4. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101311",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 11:00:00+00:00",
+    "temp_c": 35.0,
+    "humidity_pct": 42.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101311 (Karachi, 2026-10-13 16:00 PKT, autumn season): temperature 35.0 degrees celsius feels like 36.8 degrees humidex 42.7 humidity 42 percent wind 14.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 35.7. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101312",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 12:00:00+00:00",
+    "temp_c": 33.6,
+    "humidity_pct": 44.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101312 (Karachi, 2026-10-13 17:00 PKT, autumn season): temperature 33.6 degrees celsius feels like 35.6 degrees humidex 40.9 humidity 44 percent wind 11.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 35.5. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101313",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 13:00:00+00:00",
+    "temp_c": 31.7,
+    "humidity_pct": 54.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101313 (Karachi, 2026-10-13 18:00 PKT, autumn season): temperature 31.7 degrees celsius feels like 34.6 degrees humidex 40.4 humidity 54 percent wind 9.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.94, onion=1.00. Rolling mean temperature 6h: 34.8. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101314",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 14:00:00+00:00",
+    "temp_c": 30.5,
+    "humidity_pct": 62.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101314 (Karachi, 2026-10-13 19:00 PKT, autumn season): temperature 30.5 degrees celsius feels like 34.5 degrees humidex 40.2 humidity 62 percent wind 7.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.88, onion=1.00. Rolling mean temperature 6h: 33.9. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101315",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 15:00:00+00:00",
+    "temp_c": 29.8,
+    "humidity_pct": 66.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101315 (Karachi, 2026-10-13 20:00 PKT, autumn season): temperature 29.8 degrees celsius feels like 34.2 degrees humidex 39.9 humidity 66 percent wind 6.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.84, onion=1.00. Rolling mean temperature 6h: 32.8. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101316",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 16:00:00+00:00",
+    "temp_c": 29.3,
+    "humidity_pct": 69.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101316 (Karachi, 2026-10-13 21:00 PKT, autumn season): temperature 29.3 degrees celsius feels like 33.7 degrees humidex 39.6 humidity 69 percent wind 7.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.81, onion=1.00. Rolling mean temperature 6h: 31.6. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101317",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 17:00:00+00:00",
+    "temp_c": 28.8,
+    "humidity_pct": 73.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101317 (Karachi, 2026-10-13 22:00 PKT, autumn season): temperature 28.8 degrees celsius feels like 33.4 degrees humidex 39.6 humidity 73 percent wind 7.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.79, onion=1.00. Rolling mean temperature 6h: 30.6. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101318",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 18:00:00+00:00",
+    "temp_c": 28.6,
+    "humidity_pct": 79.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101318 (Karachi, 2026-10-13 23:00 PKT, autumn season): temperature 28.6 degrees celsius feels like 33.8 degrees humidex 40.5 humidity 79 percent wind 7.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.78, onion=1.00. Rolling mean temperature 6h: 29.8. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101319",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 19:00:00+00:00",
+    "temp_c": 27.9,
+    "humidity_pct": 84.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101319 (Karachi, 2026-10-14 00:00 PKT, autumn season): temperature 27.9 degrees celsius feels like 32.9 degrees humidex 40.2 humidity 84 percent wind 11.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.74, onion=1.00. Rolling mean temperature 6h: 29.1. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101320",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 20:00:00+00:00",
+    "temp_c": 27.5,
+    "humidity_pct": 88.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101320 (Karachi, 2026-10-14 01:00 PKT, autumn season): temperature 27.5 degrees celsius feels like 32.9 degrees humidex 40.2 humidity 88 percent wind 10.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.72, onion=1.00. Rolling mean temperature 6h: 28.6. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101321",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 21:00:00+00:00",
+    "temp_c": 27.1,
+    "humidity_pct": 88.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101321 (Karachi, 2026-10-14 02:00 PKT, autumn season): temperature 27.1 degrees celsius feels like 32.5 degrees humidex 39.4 humidity 88 percent wind 8.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.70, onion=1.00. Rolling mean temperature 6h: 28.2. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101322",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 22:00:00+00:00",
+    "temp_c": 26.9,
+    "humidity_pct": 84.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101322 (Karachi, 2026-10-14 03:00 PKT, autumn season): temperature 26.9 degrees celsius feels like 31.8 degrees humidex 38.2 humidity 84 percent wind 7.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.69, onion=1.00. Rolling mean temperature 6h: 27.8. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101323",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-13 23:00:00+00:00",
+    "temp_c": 26.6,
+    "humidity_pct": 82.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101323 (Karachi, 2026-10-14 04:00 PKT, autumn season): temperature 26.6 degrees celsius feels like 31.2 degrees humidex 37.2 humidity 82 percent wind 7.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.68, onion=1.00. Rolling mean temperature 6h: 27.4. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101400",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 00:00:00+00:00",
+    "temp_c": 26.8,
+    "humidity_pct": 81.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101400 (Karachi, 2026-10-14 05:00 PKT, autumn season): temperature 26.8 degrees celsius feels like 31.4 degrees humidex 37.4 humidity 81 percent wind 7.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.69, onion=1.00. Rolling mean temperature 6h: 27.1. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101401",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 01:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101401 (Karachi, 2026-10-14 06:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 31.1 degrees humidex 37.4 humidity 85 percent wind 7.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.9. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101402",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 02:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 86.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101402 (Karachi, 2026-10-14 07:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 31.4 degrees humidex 37.6 humidity 86 percent wind 6.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.7. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101403",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 03:00:00+00:00",
+    "temp_c": 27.9,
+    "humidity_pct": 80.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101403 (Karachi, 2026-10-14 08:00 PKT, autumn season): temperature 27.9 degrees celsius feels like 33.2 degrees humidex 39.3 humidity 80 percent wind 5.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.74, onion=1.00. Rolling mean temperature 6h: 26.8. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101404",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 04:00:00+00:00",
+    "temp_c": 30.3,
+    "humidity_pct": 65.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101404 (Karachi, 2026-10-14 09:00 PKT, autumn season): temperature 30.3 degrees celsius feels like 35.0 degrees humidex 40.6 humidity 65 percent wind 5.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.86, onion=1.00. Rolling mean temperature 6h: 27.4. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101405",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 05:00:00+00:00",
+    "temp_c": 33.0,
+    "humidity_pct": 48.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101405 (Karachi, 2026-10-14 10:00 PKT, autumn season): temperature 33.0 degrees celsius feels like 36.2 degrees humidex 41.0 humidity 48 percent wind 5.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 28.5. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101406",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 06:00:00+00:00",
+    "temp_c": 34.6,
+    "humidity_pct": 42.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101406 (Karachi, 2026-10-14 11:00 PKT, autumn season): temperature 34.6 degrees celsius feels like 37.9 degrees humidex 42.0 humidity 42 percent wind 7.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 29.8. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101407",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 07:00:00+00:00",
+    "temp_c": 34.9,
+    "humidity_pct": 42.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101407 (Karachi, 2026-10-14 12:00 PKT, autumn season): temperature 34.9 degrees celsius feels like 38.6 degrees humidex 42.6 humidity 42 percent wind 10.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 31.2. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101408",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 08:00:00+00:00",
+    "temp_c": 35.1,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101408 (Karachi, 2026-10-14 13:00 PKT, autumn season): temperature 35.1 degrees celsius feels like 38.8 degrees humidex 43.2 humidity 43 percent wind 11.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 32.6. 24h max temperature: 36.4."
+  },
+  {
+    "row_id": "KHI_2026101409",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 09:00:00+00:00",
+    "temp_c": 34.9,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101409 (Karachi, 2026-10-14 14:00 PKT, autumn season): temperature 34.9 degrees celsius feels like 38.1 degrees humidex 42.9 humidity 43 percent wind 12.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 33.8. 24h max temperature: 36.0."
+  },
+  {
+    "row_id": "KHI_2026101410",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 10:00:00+00:00",
+    "temp_c": 34.2,
+    "humidity_pct": 45.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101410 (Karachi, 2026-10-14 15:00 PKT, autumn season): temperature 34.2 degrees celsius feels like 36.9 degrees humidex 42.3 humidity 45 percent wind 12.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.5. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101411",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 11:00:00+00:00",
+    "temp_c": 33.1,
+    "humidity_pct": 50.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101411 (Karachi, 2026-10-14 16:00 PKT, autumn season): temperature 33.1 degrees celsius feels like 35.9 degrees humidex 41.8 humidity 50 percent wind 11.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.5. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101412",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 12:00:00+00:00",
+    "temp_c": 32.2,
+    "humidity_pct": 53.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101412 (Karachi, 2026-10-14 17:00 PKT, autumn season): temperature 32.2 degrees celsius feels like 35.3 degrees humidex 41.0 humidity 53 percent wind 10.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.96, onion=1.00. Rolling mean temperature 6h: 34.1. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101413",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 13:00:00+00:00",
+    "temp_c": 30.5,
+    "humidity_pct": 64.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101413 (Karachi, 2026-10-14 18:00 PKT, autumn season): temperature 30.5 degrees celsius feels like 34.7 degrees humidex 40.7 humidity 64 percent wind 8.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.88, onion=1.00. Rolling mean temperature 6h: 33.3. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101414",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 14:00:00+00:00",
+    "temp_c": 29.4,
+    "humidity_pct": 76.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101414 (Karachi, 2026-10-14 19:00 PKT, autumn season): temperature 29.4 degrees celsius feels like 35.0 degrees humidex 41.5 humidity 76 percent wind 7.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.82, onion=1.00. Rolling mean temperature 6h: 32.4. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101415",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 15:00:00+00:00",
+    "temp_c": 28.6,
+    "humidity_pct": 84.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101415 (Karachi, 2026-10-14 20:00 PKT, autumn season): temperature 28.6 degrees celsius feels like 34.7 degrees humidex 41.6 humidity 84 percent wind 7.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.78, onion=1.00. Rolling mean temperature 6h: 31.3. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101416",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 16:00:00+00:00",
+    "temp_c": 28.2,
+    "humidity_pct": 86.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101416 (Karachi, 2026-10-14 21:00 PKT, autumn season): temperature 28.2 degrees celsius feels like 34.2 degrees humidex 41.3 humidity 86 percent wind 7.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.76, onion=1.00. Rolling mean temperature 6h: 30.3. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101417",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 17:00:00+00:00",
+    "temp_c": 28.0,
+    "humidity_pct": 87.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101417 (Karachi, 2026-10-14 22:00 PKT, autumn season): temperature 28.0 degrees celsius feels like 34.1 degrees humidex 41.1 humidity 87 percent wind 6.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.75, onion=1.00. Rolling mean temperature 6h: 29.5. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101418",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 18:00:00+00:00",
+    "temp_c": 27.8,
+    "humidity_pct": 89.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101418 (Karachi, 2026-10-14 23:00 PKT, autumn season): temperature 27.8 degrees celsius feels like 34.0 degrees humidex 41.1 humidity 89 percent wind 8.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.74, onion=1.00. Rolling mean temperature 6h: 28.8. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101419",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 19:00:00+00:00",
+    "temp_c": 27.2,
+    "humidity_pct": 92.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101419 (Karachi, 2026-10-15 00:00 PKT, autumn season): temperature 27.2 degrees celsius feels like 33.2 degrees humidex 40.4 humidity 92 percent wind 8.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.71, onion=1.00. Rolling mean temperature 6h: 28.2. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101420",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 20:00:00+00:00",
+    "temp_c": 27.1,
+    "humidity_pct": 92.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101420 (Karachi, 2026-10-15 01:00 PKT, autumn season): temperature 27.1 degrees celsius feels like 32.9 degrees humidex 40.2 humidity 92 percent wind 9.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.70, onion=1.00. Rolling mean temperature 6h: 27.8. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101421",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 21:00:00+00:00",
+    "temp_c": 26.9,
+    "humidity_pct": 93.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101421 (Karachi, 2026-10-15 02:00 PKT, autumn season): temperature 26.9 degrees celsius feels like 32.9 degrees humidex 40.0 humidity 93 percent wind 7.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.69, onion=1.00. Rolling mean temperature 6h: 27.5. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101422",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 22:00:00+00:00",
+    "temp_c": 26.7,
+    "humidity_pct": 94.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101422 (Karachi, 2026-10-15 03:00 PKT, autumn season): temperature 26.7 degrees celsius feels like 32.6 degrees humidex 39.8 humidity 94 percent wind 8.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.69, onion=1.00. Rolling mean temperature 6h: 27.3. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101423",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-14 23:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 95.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101423 (Karachi, 2026-10-15 04:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 32.5 degrees humidex 39.4 humidity 95 percent wind 7.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 27.0. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101500",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 00:00:00+00:00",
+    "temp_c": 26.6,
+    "humidity_pct": 93.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101500 (Karachi, 2026-10-15 05:00 PKT, autumn season): temperature 26.6 degrees celsius feels like 32.6 degrees humidex 39.4 humidity 93 percent wind 6.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.68, onion=1.00. Rolling mean temperature 6h: 26.8. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101501",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 01:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 93.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101501 (Karachi, 2026-10-15 06:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 32.2 degrees humidex 39.0 humidity 93 percent wind 7.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.7. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101502",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 02:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 93.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101502 (Karachi, 2026-10-15 07:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 32.3 degrees humidex 39.0 humidity 93 percent wind 6.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.6. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101503",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 03:00:00+00:00",
+    "temp_c": 27.9,
+    "humidity_pct": 86.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101503 (Karachi, 2026-10-15 08:00 PKT, autumn season): temperature 27.9 degrees celsius feels like 34.0 degrees humidex 40.6 humidity 86 percent wind 5.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.74, onion=1.00. Rolling mean temperature 6h: 26.7. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101504",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 04:00:00+00:00",
+    "temp_c": 29.6,
+    "humidity_pct": 73.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101504 (Karachi, 2026-10-15 09:00 PKT, autumn season): temperature 29.6 degrees celsius feels like 35.0 degrees humidex 41.1 humidity 73 percent wind 6.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.83, onion=1.00. Rolling mean temperature 6h: 27.2. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101505",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 05:00:00+00:00",
+    "temp_c": 31.1,
+    "humidity_pct": 67.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101505 (Karachi, 2026-10-15 10:00 PKT, autumn season): temperature 31.1 degrees celsius feels like 36.3 degrees humidex 42.6 humidity 67 percent wind 6.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.91, onion=1.00. Rolling mean temperature 6h: 28.0. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101506",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 06:00:00+00:00",
+    "temp_c": 32.1,
+    "humidity_pct": 63.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101506 (Karachi, 2026-10-15 11:00 PKT, autumn season): temperature 32.1 degrees celsius feels like 37.9 degrees humidex 43.6 humidity 63 percent wind 8.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.95, onion=1.00. Rolling mean temperature 6h: 28.9. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101507",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 07:00:00+00:00",
+    "temp_c": 32.7,
+    "humidity_pct": 62.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101507 (Karachi, 2026-10-15 12:00 PKT, autumn season): temperature 32.7 degrees celsius feels like 38.7 degrees humidex 44.5 humidity 62 percent wind 10.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.98, onion=1.00. Rolling mean temperature 6h: 30.0. 24h max temperature: 35.1."
+  },
+  {
+    "row_id": "KHI_2026101508",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 08:00:00+00:00",
+    "temp_c": 32.9,
+    "humidity_pct": 62.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101508 (Karachi, 2026-10-15 13:00 PKT, autumn season): temperature 32.9 degrees celsius feels like 38.9 degrees humidex 44.9 humidity 62 percent wind 12.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.99, onion=1.00. Rolling mean temperature 6h: 31.1. 24h max temperature: 34.9."
+  },
+  {
+    "row_id": "KHI_2026101509",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 09:00:00+00:00",
+    "temp_c": 33.0,
+    "humidity_pct": 60.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101509 (Karachi, 2026-10-15 14:00 PKT, autumn season): temperature 33.0 degrees celsius feels like 38.4 degrees humidex 44.5 humidity 60 percent wind 12.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 31.9. 24h max temperature: 34.2."
+  },
+  {
+    "row_id": "KHI_2026101510",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 10:00:00+00:00",
+    "temp_c": 32.8,
+    "humidity_pct": 58.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101510 (Karachi, 2026-10-15 15:00 PKT, autumn season): temperature 32.8 degrees celsius feels like 37.1 degrees humidex 43.5 humidity 58 percent wind 12.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.99, onion=1.00. Rolling mean temperature 6h: 32.4. 24h max temperature: 33.1."
+  },
+  {
+    "row_id": "KHI_2026101511",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 11:00:00+00:00",
+    "temp_c": 32.3,
+    "humidity_pct": 57.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101511 (Karachi, 2026-10-15 16:00 PKT, autumn season): temperature 32.3 degrees celsius feels like 35.8 degrees humidex 42.3 humidity 57 percent wind 11.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.96, onion=1.00. Rolling mean temperature 6h: 32.6. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101512",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 12:00:00+00:00",
+    "temp_c": 31.2,
+    "humidity_pct": 61.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101512 (Karachi, 2026-10-15 17:00 PKT, autumn season): temperature 31.2 degrees celsius feels like 35.1 degrees humidex 41.3 humidity 61 percent wind 10.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.91, onion=1.00. Rolling mean temperature 6h: 32.5. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101513",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 13:00:00+00:00",
+    "temp_c": 29.3,
+    "humidity_pct": 77.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101513 (Karachi, 2026-10-15 18:00 PKT, autumn season): temperature 29.3 degrees celsius feels like 34.5 degrees humidex 41.5 humidity 77 percent wind 9.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.81, onion=1.00. Rolling mean temperature 6h: 31.9. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101514",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 14:00:00+00:00",
+    "temp_c": 28.7,
+    "humidity_pct": 80.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101514 (Karachi, 2026-10-15 19:00 PKT, autumn season): temperature 28.7 degrees celsius feels like 34.5 degrees humidex 41.0 humidity 80 percent wind 6.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.79, onion=1.00. Rolling mean temperature 6h: 31.2. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101515",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 15:00:00+00:00",
+    "temp_c": 28.3,
+    "humidity_pct": 83.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101515 (Karachi, 2026-10-15 20:00 PKT, autumn season): temperature 28.3 degrees celsius feels like 34.4 degrees humidex 40.8 humidity 83 percent wind 4.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.77, onion=1.00. Rolling mean temperature 6h: 30.4. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101516",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 16:00:00+00:00",
+    "temp_c": 28.0,
+    "humidity_pct": 84.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101516 (Karachi, 2026-10-15 21:00 PKT, autumn season): temperature 28.0 degrees celsius feels like 33.7 degrees humidex 40.4 humidity 84 percent wind 6.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.75, onion=1.00. Rolling mean temperature 6h: 29.6. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101517",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 17:00:00+00:00",
+    "temp_c": 27.7,
+    "humidity_pct": 83.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101517 (Karachi, 2026-10-15 22:00 PKT, autumn season): temperature 27.7 degrees celsius feels like 33.4 degrees humidex 39.6 humidity 83 percent wind 4.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.73, onion=1.00. Rolling mean temperature 6h: 28.9. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101518",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 18:00:00+00:00",
+    "temp_c": 27.7,
+    "humidity_pct": 81.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101518 (Karachi, 2026-10-15 23:00 PKT, autumn season): temperature 27.7 degrees celsius feels like 32.7 degrees humidex 39.1 humidity 81 percent wind 7.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.73, onion=1.00. Rolling mean temperature 6h: 28.3. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101519",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 19:00:00+00:00",
+    "temp_c": 27.1,
+    "humidity_pct": 83.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101519 (Karachi, 2026-10-16 00:00 PKT, autumn season): temperature 27.1 degrees celsius feels like 31.9 degrees humidex 38.4 humidity 83 percent wind 8.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.70, onion=1.00. Rolling mean temperature 6h: 27.9. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101520",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 20:00:00+00:00",
+    "temp_c": 27.0,
+    "humidity_pct": 78.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101520 (Karachi, 2026-10-16 01:00 PKT, autumn season): temperature 27.0 degrees celsius feels like 31.2 degrees humidex 37.1 humidity 78 percent wind 7.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.70, onion=1.00. Rolling mean temperature 6h: 27.6. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101521",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 21:00:00+00:00",
+    "temp_c": 26.6,
+    "humidity_pct": 75.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101521 (Karachi, 2026-10-16 02:00 PKT, autumn season): temperature 26.6 degrees celsius feels like 30.5 degrees humidex 35.8 humidity 75 percent wind 6.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.68, onion=1.00. Rolling mean temperature 6h: 27.4. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101522",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 22:00:00+00:00",
+    "temp_c": 26.6,
+    "humidity_pct": 72.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101522 (Karachi, 2026-10-16 03:00 PKT, autumn season): temperature 26.6 degrees celsius feels like 30.2 degrees humidex 35.1 humidity 72 percent wind 5.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.68, onion=1.00. Rolling mean temperature 6h: 27.1. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101523",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-15 23:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 74.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101523 (Karachi, 2026-10-16 04:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 30.2 degrees humidex 35.2 humidity 74 percent wind 4.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.9. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101600",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 00:00:00+00:00",
+    "temp_c": 26.3,
+    "humidity_pct": 77.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101600 (Karachi, 2026-10-16 05:00 PKT, autumn season): temperature 26.3 degrees celsius feels like 31.1 degrees humidex 35.6 humidity 77 percent wind 1.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 26.7. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101601",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 01:00:00+00:00",
+    "temp_c": 25.6,
+    "humidity_pct": 79.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101601 (Karachi, 2026-10-16 06:00 PKT, autumn season): temperature 25.6 degrees celsius feels like 29.5 degrees humidex 34.6 humidity 79 percent wind 5.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.63, onion=1.00. Rolling mean temperature 6h: 26.4. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101602",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 02:00:00+00:00",
+    "temp_c": 25.7,
+    "humidity_pct": 77.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101602 (Karachi, 2026-10-16 07:00 PKT, autumn season): temperature 25.7 degrees celsius feels like 29.4 degrees humidex 34.5 humidity 77 percent wind 6.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.64, onion=1.00. Rolling mean temperature 6h: 26.2. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101603",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 03:00:00+00:00",
+    "temp_c": 27.3,
+    "humidity_pct": 69.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101603 (Karachi, 2026-10-16 08:00 PKT, autumn season): temperature 27.3 degrees celsius feels like 30.9 degrees humidex 35.8 humidity 69 percent wind 5.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.71, onion=1.00. Rolling mean temperature 6h: 26.3. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101604",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 04:00:00+00:00",
+    "temp_c": 29.6,
+    "humidity_pct": 53.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101604 (Karachi, 2026-10-16 09:00 PKT, autumn season): temperature 29.6 degrees celsius feels like 31.8 degrees humidex 36.4 humidity 53 percent wind 7.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.83, onion=1.00. Rolling mean temperature 6h: 26.8. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101605",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 05:00:00+00:00",
+    "temp_c": 32.2,
+    "humidity_pct": 39.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101605 (Karachi, 2026-10-16 10:00 PKT, autumn season): temperature 32.2 degrees celsius feels like 33.0 degrees humidex 37.1 humidity 39 percent wind 9.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.96, onion=1.00. Rolling mean temperature 6h: 27.8. 24h max temperature: 33.0."
+  },
+  {
+    "row_id": "KHI_2026101606",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 06:00:00+00:00",
+    "temp_c": 33.7,
+    "humidity_pct": 39.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101606 (Karachi, 2026-10-16 11:00 PKT, autumn season): temperature 33.7 degrees celsius feels like 35.8 degrees humidex 39.6 humidity 39 percent wind 10.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 29.0. 24h max temperature: 33.7."
+  },
+  {
+    "row_id": "KHI_2026101607",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 07:00:00+00:00",
+    "temp_c": 34.6,
+    "humidity_pct": 37.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101607 (Karachi, 2026-10-16 12:00 PKT, autumn season): temperature 34.6 degrees celsius feels like 37.4 degrees humidex 40.5 humidity 37 percent wind 8.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 30.5. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101608",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 08:00:00+00:00",
+    "temp_c": 34.3,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101608 (Karachi, 2026-10-16 13:00 PKT, autumn season): temperature 34.3 degrees celsius feels like 38.2 degrees humidex 41.8 humidity 43 percent wind 8.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 31.9. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101609",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 09:00:00+00:00",
+    "temp_c": 33.3,
+    "humidity_pct": 57.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101609 (Karachi, 2026-10-16 14:00 PKT, autumn season): temperature 33.3 degrees celsius feels like 38.2 degrees humidex 44.2 humidity 57 percent wind 11.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 33.0. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101610",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 10:00:00+00:00",
+    "temp_c": 33.4,
+    "humidity_pct": 55.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101610 (Karachi, 2026-10-16 15:00 PKT, autumn season): temperature 33.4 degrees celsius feels like 37.4 degrees humidex 43.8 humidity 55 percent wind 11.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 33.6. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101611",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 11:00:00+00:00",
+    "temp_c": 32.8,
+    "humidity_pct": 55.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101611 (Karachi, 2026-10-16 16:00 PKT, autumn season): temperature 32.8 degrees celsius feels like 36.1 degrees humidex 42.7 humidity 55 percent wind 12.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.99, onion=1.00. Rolling mean temperature 6h: 33.7. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101612",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 12:00:00+00:00",
+    "temp_c": 31.2,
+    "humidity_pct": 66.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101612 (Karachi, 2026-10-16 17:00 PKT, autumn season): temperature 31.2 degrees celsius feels like 35.4 degrees humidex 42.6 humidity 66 percent wind 13.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.91, onion=1.00. Rolling mean temperature 6h: 33.3. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101613",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 13:00:00+00:00",
+    "temp_c": 29.2,
+    "humidity_pct": 77.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101613 (Karachi, 2026-10-16 18:00 PKT, autumn season): temperature 29.2 degrees celsius feels like 34.3 degrees humidex 41.3 humidity 77 percent wind 9.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.81, onion=1.00. Rolling mean temperature 6h: 32.4. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101614",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 14:00:00+00:00",
+    "temp_c": 28.6,
+    "humidity_pct": 82.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101614 (Karachi, 2026-10-16 19:00 PKT, autumn season): temperature 28.6 degrees celsius feels like 34.3 degrees humidex 41.2 humidity 82 percent wind 7.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.78, onion=1.00. Rolling mean temperature 6h: 31.4. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101615",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 15:00:00+00:00",
+    "temp_c": 28.2,
+    "humidity_pct": 83.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101615 (Karachi, 2026-10-16 20:00 PKT, autumn season): temperature 28.2 degrees celsius feels like 33.9 degrees humidex 40.6 humidity 83 percent wind 7.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.76, onion=1.00. Rolling mean temperature 6h: 30.6. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101616",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 16:00:00+00:00",
+    "temp_c": 27.9,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101616 (Karachi, 2026-10-16 21:00 PKT, autumn season): temperature 27.9 degrees celsius feels like 33.9 degrees humidex 40.4 humidity 85 percent wind 5.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.74, onion=1.00. Rolling mean temperature 6h: 29.6. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101617",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 17:00:00+00:00",
+    "temp_c": 27.5,
+    "humidity_pct": 88.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101617 (Karachi, 2026-10-16 22:00 PKT, autumn season): temperature 27.5 degrees celsius feels like 33.8 degrees humidex 40.2 humidity 88 percent wind 4.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.72, onion=1.00. Rolling mean temperature 6h: 28.8. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101618",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 18:00:00+00:00",
+    "temp_c": 27.3,
+    "humidity_pct": 90.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101618 (Karachi, 2026-10-16 23:00 PKT, autumn season): temperature 27.3 degrees celsius feels like 33.7 degrees humidex 40.2 humidity 90 percent wind 4.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.71, onion=1.00. Rolling mean temperature 6h: 28.1. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101619",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 19:00:00+00:00",
+    "temp_c": 26.8,
+    "humidity_pct": 93.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101619 (Karachi, 2026-10-17 00:00 PKT, autumn season): temperature 26.8 degrees celsius feels like 33.1 degrees humidex 39.8 humidity 93 percent wind 5.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.69, onion=1.00. Rolling mean temperature 6h: 27.7. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101620",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 20:00:00+00:00",
+    "temp_c": 26.5,
+    "humidity_pct": 95.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101620 (Karachi, 2026-10-17 01:00 PKT, autumn season): temperature 26.5 degrees celsius feels like 32.7 degrees humidex 39.6 humidity 95 percent wind 5.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.68, onion=1.00. Rolling mean temperature 6h: 27.4. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101621",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 21:00:00+00:00",
+    "temp_c": 26.1,
+    "humidity_pct": 96.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101621 (Karachi, 2026-10-17 02:00 PKT, autumn season): temperature 26.1 degrees celsius feels like 32.6 degrees humidex 38.9 humidity 96 percent wind 3.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.66, onion=1.00. Rolling mean temperature 6h: 27.0. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101622",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 22:00:00+00:00",
+    "temp_c": 25.9,
+    "humidity_pct": 96.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101622 (Karachi, 2026-10-17 03:00 PKT, autumn season): temperature 25.9 degrees celsius feels like 32.3 degrees humidex 38.5 humidity 96 percent wind 2.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.65, onion=1.00. Rolling mean temperature 6h: 26.7. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101623",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-16 23:00:00+00:00",
+    "temp_c": 25.6,
+    "humidity_pct": 97.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101623 (Karachi, 2026-10-17 04:00 PKT, autumn season): temperature 25.6 degrees celsius feels like 31.8 degrees humidex 38.0 humidity 97 percent wind 3.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.63, onion=1.00. Rolling mean temperature 6h: 26.4. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101700",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 00:00:00+00:00",
+    "temp_c": 25.5,
+    "humidity_pct": 96.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101700 (Karachi, 2026-10-17 05:00 PKT, autumn season): temperature 25.5 degrees celsius feels like 31.4 degrees humidex 37.6 humidity 96 percent wind 4.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.62, onion=1.00. Rolling mean temperature 6h: 26.1. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101701",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 01:00:00+00:00",
+    "temp_c": 25.2,
+    "humidity_pct": 95.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101701 (Karachi, 2026-10-17 06:00 PKT, autumn season): temperature 25.2 degrees celsius feels like 30.8 degrees humidex 36.9 humidity 95 percent wind 5.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.61, onion=1.00. Rolling mean temperature 6h: 25.8. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101702",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 02:00:00+00:00",
+    "temp_c": 25.1,
+    "humidity_pct": 94.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101702 (Karachi, 2026-10-17 07:00 PKT, autumn season): temperature 25.1 degrees celsius feels like 30.6 degrees humidex 36.5 humidity 94 percent wind 4.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.60, onion=1.00. Rolling mean temperature 6h: 25.6. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101703",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 03:00:00+00:00",
+    "temp_c": 26.1,
+    "humidity_pct": 87.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101703 (Karachi, 2026-10-17 08:00 PKT, autumn season): temperature 26.1 degrees celsius feels like 31.3 degrees humidex 37.1 humidity 87 percent wind 4.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.66, onion=1.00. Rolling mean temperature 6h: 25.6. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101704",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 04:00:00+00:00",
+    "temp_c": 28.4,
+    "humidity_pct": 71.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101704 (Karachi, 2026-10-17 09:00 PKT, autumn season): temperature 28.4 degrees celsius feels like 33.0 degrees humidex 38.3 humidity 71 percent wind 3.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.77, onion=1.00. Rolling mean temperature 6h: 26.0. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101705",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 05:00:00+00:00",
+    "temp_c": 31.4,
+    "humidity_pct": 48.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101705 (Karachi, 2026-10-17 10:00 PKT, autumn season): temperature 31.4 degrees celsius feels like 34.3 degrees humidex 38.2 humidity 48 percent wind 2.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.92, onion=1.00. Rolling mean temperature 6h: 26.9. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101706",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 06:00:00+00:00",
+    "temp_c": 33.0,
+    "humidity_pct": 39.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101706 (Karachi, 2026-10-17 11:00 PKT, autumn season): temperature 33.0 degrees celsius feels like 35.9 degrees humidex 38.4 humidity 39 percent wind 4.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 28.2. 24h max temperature: 34.6."
+  },
+  {
+    "row_id": "KHI_2026101707",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 07:00:00+00:00",
+    "temp_c": 33.7,
+    "humidity_pct": 40.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101707 (Karachi, 2026-10-17 12:00 PKT, autumn season): temperature 33.7 degrees celsius feels like 37.2 degrees humidex 39.9 humidity 40 percent wind 5.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 29.6. 24h max temperature: 34.3."
+  },
+  {
+    "row_id": "KHI_2026101708",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 08:00:00+00:00",
+    "temp_c": 33.9,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101708 (Karachi, 2026-10-17 13:00 PKT, autumn season): temperature 33.9 degrees celsius feels like 37.6 degrees humidex 41.1 humidity 43 percent wind 9.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 31.1. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101709",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 09:00:00+00:00",
+    "temp_c": 33.8,
+    "humidity_pct": 45.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101709 (Karachi, 2026-10-17 14:00 PKT, autumn season): temperature 33.8 degrees celsius feels like 36.9 degrees humidex 41.6 humidity 45 percent wind 12.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 32.4. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101710",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 10:00:00+00:00",
+    "temp_c": 33.5,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101710 (Karachi, 2026-10-17 15:00 PKT, autumn season): temperature 33.5 degrees celsius feels like 35.0 degrees humidex 40.4 humidity 43 percent wind 13.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 33.2. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101711",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 11:00:00+00:00",
+    "temp_c": 32.7,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101711 (Karachi, 2026-10-17 16:00 PKT, autumn season): temperature 32.7 degrees celsius feels like 33.9 degrees humidex 39.1 humidity 43 percent wind 13.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.98, onion=1.00. Rolling mean temperature 6h: 33.4. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101712",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 12:00:00+00:00",
+    "temp_c": 32.4,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101712 (Karachi, 2026-10-17 17:00 PKT, autumn season): temperature 32.4 degrees celsius feels like 33.9 degrees humidex 38.6 humidity 43 percent wind 10.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.97, onion=1.00. Rolling mean temperature 6h: 33.3. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101713",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 13:00:00+00:00",
+    "temp_c": 30.5,
+    "humidity_pct": 54.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101713 (Karachi, 2026-10-17 18:00 PKT, autumn season): temperature 30.5 degrees celsius feels like 33.0 degrees humidex 38.2 humidity 54 percent wind 9.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.88, onion=1.00. Rolling mean temperature 6h: 32.8. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101714",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 14:00:00+00:00",
+    "temp_c": 29.3,
+    "humidity_pct": 64.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101714 (Karachi, 2026-10-17 19:00 PKT, autumn season): temperature 29.3 degrees celsius feels like 32.9 degrees humidex 38.4 humidity 64 percent wind 8.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.81, onion=1.00. Rolling mean temperature 6h: 32.0. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101715",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 15:00:00+00:00",
+    "temp_c": 28.5,
+    "humidity_pct": 70.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101715 (Karachi, 2026-10-17 20:00 PKT, autumn season): temperature 28.5 degrees celsius feels like 32.6 degrees humidex 38.3 humidity 70 percent wind 7.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.78, onion=1.00. Rolling mean temperature 6h: 31.1. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101716",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 16:00:00+00:00",
+    "temp_c": 28.0,
+    "humidity_pct": 74.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101716 (Karachi, 2026-10-17 21:00 PKT, autumn season): temperature 28.0 degrees celsius feels like 32.4 degrees humidex 38.2 humidity 74 percent wind 6.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.75, onion=1.00. Rolling mean temperature 6h: 30.2. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101717",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 17:00:00+00:00",
+    "temp_c": 27.3,
+    "humidity_pct": 80.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101717 (Karachi, 2026-10-17 22:00 PKT, autumn season): temperature 27.3 degrees celsius feels like 32.1 degrees humidex 38.1 humidity 80 percent wind 6.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.71, onion=1.00. Rolling mean temperature 6h: 29.3. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101718",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 18:00:00+00:00",
+    "temp_c": 27.0,
+    "humidity_pct": 82.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101718 (Karachi, 2026-10-17 23:00 PKT, autumn season): temperature 27.0 degrees celsius feels like 32.0 degrees humidex 38.0 humidity 82 percent wind 5.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.70, onion=1.00. Rolling mean temperature 6h: 28.4. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101719",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 19:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101719 (Karachi, 2026-10-18 00:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 31.7 degrees humidex 37.4 humidity 85 percent wind 2.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 27.8. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101720",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 20:00:00+00:00",
+    "temp_c": 26.1,
+    "humidity_pct": 86.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101720 (Karachi, 2026-10-18 01:00 PKT, autumn season): temperature 26.1 degrees celsius feels like 31.4 degrees humidex 37.0 humidity 86 percent wind 3.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.66, onion=1.00. Rolling mean temperature 6h: 27.2. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101721",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 21:00:00+00:00",
+    "temp_c": 25.5,
+    "humidity_pct": 88.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101721 (Karachi, 2026-10-18 02:00 PKT, autumn season): temperature 25.5 degrees celsius feels like 30.3 degrees humidex 36.1 humidity 88 percent wind 6.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.62, onion=1.00. Rolling mean temperature 6h: 26.7. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101722",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 22:00:00+00:00",
+    "temp_c": 25.3,
+    "humidity_pct": 88.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101722 (Karachi, 2026-10-18 03:00 PKT, autumn season): temperature 25.3 degrees celsius feels like 29.6 degrees humidex 35.8 humidity 88 percent wind 8.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.61, onion=1.00. Rolling mean temperature 6h: 26.3. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101723",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-17 23:00:00+00:00",
+    "temp_c": 25.2,
+    "humidity_pct": 89.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101723 (Karachi, 2026-10-18 04:00 PKT, autumn season): temperature 25.2 degrees celsius feels like 29.5 degrees humidex 35.7 humidity 89 percent wind 8.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.61, onion=1.00. Rolling mean temperature 6h: 25.9. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101800",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 00:00:00+00:00",
+    "temp_c": 25.5,
+    "humidity_pct": 88.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101800 (Karachi, 2026-10-18 05:00 PKT, autumn season): temperature 25.5 degrees celsius feels like 30.3 degrees humidex 36.1 humidity 88 percent wind 5.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.62, onion=1.00. Rolling mean temperature 6h: 25.7. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101801",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 01:00:00+00:00",
+    "temp_c": 24.8,
+    "humidity_pct": 89.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101801 (Karachi, 2026-10-18 06:00 PKT, autumn season): temperature 24.8 degrees celsius feels like 29.0 degrees humidex 35.0 humidity 89 percent wind 7.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.59, onion=1.00. Rolling mean temperature 6h: 25.4. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101802",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 02:00:00+00:00",
+    "temp_c": 24.5,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101802 (Karachi, 2026-10-18 07:00 PKT, autumn season): temperature 24.5 degrees celsius feels like 28.2 degrees humidex 33.7 humidity 85 percent wind 7.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.57, onion=1.00. Rolling mean temperature 6h: 25.1. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101803",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 03:00:00+00:00",
+    "temp_c": 26.3,
+    "humidity_pct": 70.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101803 (Karachi, 2026-10-18 08:00 PKT, autumn season): temperature 26.3 degrees celsius feels like 29.6 degrees humidex 34.2 humidity 70 percent wind 5.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 25.3. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101804",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 04:00:00+00:00",
+    "temp_c": 29.3,
+    "humidity_pct": 53.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101804 (Karachi, 2026-10-18 09:00 PKT, autumn season): temperature 29.3 degrees celsius feels like 31.7 degrees humidex 35.9 humidity 53 percent wind 5.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.81, onion=1.00. Rolling mean temperature 6h: 25.9. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101805",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 05:00:00+00:00",
+    "temp_c": 32.4,
+    "humidity_pct": 39.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101805 (Karachi, 2026-10-18 10:00 PKT, autumn season): temperature 32.4 degrees celsius feels like 33.9 degrees humidex 37.5 humidity 39 percent wind 5.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.97, onion=1.00. Rolling mean temperature 6h: 27.1. 24h max temperature: 33.9."
+  },
+  {
+    "row_id": "KHI_2026101806",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 06:00:00+00:00",
+    "temp_c": 34.5,
+    "humidity_pct": 30.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101806 (Karachi, 2026-10-18 11:00 PKT, autumn season): temperature 34.5 degrees celsius feels like 36.0 degrees humidex 38.1 humidity 30 percent wind 5.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 28.6. 24h max temperature: 34.5."
+  },
+  {
+    "row_id": "KHI_2026101807",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 07:00:00+00:00",
+    "temp_c": 35.4,
+    "humidity_pct": 27.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101807 (Karachi, 2026-10-18 12:00 PKT, autumn season): temperature 35.4 degrees celsius feels like 37.0 degrees humidex 38.5 humidity 27 percent wind 6.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 30.4. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101808",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 08:00:00+00:00",
+    "temp_c": 35.4,
+    "humidity_pct": 29.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101808 (Karachi, 2026-10-18 13:00 PKT, autumn season): temperature 35.4 degrees celsius feels like 37.0 degrees humidex 39.2 humidity 29 percent wind 8.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 32.2. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101809",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 09:00:00+00:00",
+    "temp_c": 35.4,
+    "humidity_pct": 29.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101809 (Karachi, 2026-10-18 14:00 PKT, autumn season): temperature 35.4 degrees celsius feels like 36.5 degrees humidex 39.2 humidity 29 percent wind 10.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 33.7. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101810",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 10:00:00+00:00",
+    "temp_c": 35.2,
+    "humidity_pct": 30.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101810 (Karachi, 2026-10-18 15:00 PKT, autumn season): temperature 35.2 degrees celsius feels like 35.2 degrees humidex 39.2 humidity 30 percent wind 13.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.7. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101811",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 11:00:00+00:00",
+    "temp_c": 34.9,
+    "humidity_pct": 28.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101811 (Karachi, 2026-10-18 16:00 PKT, autumn season): temperature 34.9 degrees celsius feels like 34.0 degrees humidex 38.1 humidity 28 percent wind 14.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 35.1. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101812",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 12:00:00+00:00",
+    "temp_c": 33.5,
+    "humidity_pct": 32.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101812 (Karachi, 2026-10-18 17:00 PKT, autumn season): temperature 33.5 degrees celsius feels like 33.3 degrees humidex 37.2 humidity 32 percent wind 10.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 35.0. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101813",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 13:00:00+00:00",
+    "temp_c": 31.5,
+    "humidity_pct": 43.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101813 (Karachi, 2026-10-18 18:00 PKT, autumn season): temperature 31.5 degrees celsius feels like 32.8 degrees humidex 37.1 humidity 43 percent wind 8.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.93, onion=1.00. Rolling mean temperature 6h: 34.3. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101814",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 14:00:00+00:00",
+    "temp_c": 30.1,
+    "humidity_pct": 53.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101814 (Karachi, 2026-10-18 19:00 PKT, autumn season): temperature 30.1 degrees celsius feels like 32.5 degrees humidex 37.2 humidity 53 percent wind 8.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.85, onion=1.00. Rolling mean temperature 6h: 33.4. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101815",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 15:00:00+00:00",
+    "temp_c": 29.2,
+    "humidity_pct": 60.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101815 (Karachi, 2026-10-18 20:00 PKT, autumn season): temperature 29.2 degrees celsius feels like 32.3 degrees humidex 37.3 humidity 60 percent wind 7.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.81, onion=1.00. Rolling mean temperature 6h: 32.4. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101816",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 16:00:00+00:00",
+    "temp_c": 28.4,
+    "humidity_pct": 66.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101816 (Karachi, 2026-10-18 21:00 PKT, autumn season): temperature 28.4 degrees celsius feels like 32.2 degrees humidex 37.2 humidity 66 percent wind 6.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.77, onion=1.00. Rolling mean temperature 6h: 31.3. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101817",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 17:00:00+00:00",
+    "temp_c": 27.8,
+    "humidity_pct": 72.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101817 (Karachi, 2026-10-18 22:00 PKT, autumn season): temperature 27.8 degrees celsius feels like 31.8 degrees humidex 37.4 humidity 72 percent wind 7.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.74, onion=1.00. Rolling mean temperature 6h: 30.1. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101818",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 18:00:00+00:00",
+    "temp_c": 27.7,
+    "humidity_pct": 74.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101818 (Karachi, 2026-10-18 23:00 PKT, autumn season): temperature 27.7 degrees celsius feels like 32.0 degrees humidex 37.6 humidity 74 percent wind 6.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.73, onion=1.00. Rolling mean temperature 6h: 29.1. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101819",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 19:00:00+00:00",
+    "temp_c": 26.9,
+    "humidity_pct": 79.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101819 (Karachi, 2026-10-19 00:00 PKT, autumn season): temperature 26.9 degrees celsius feels like 31.2 degrees humidex 37.1 humidity 79 percent wind 7.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.69, onion=1.00. Rolling mean temperature 6h: 28.4. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101820",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 20:00:00+00:00",
+    "temp_c": 26.3,
+    "humidity_pct": 84.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101820 (Karachi, 2026-10-19 01:00 PKT, autumn season): temperature 26.3 degrees celsius feels like 30.8 degrees humidex 37.0 humidity 84 percent wind 7.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 27.7. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101821",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 21:00:00+00:00",
+    "temp_c": 25.9,
+    "humidity_pct": 87.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101821 (Karachi, 2026-10-19 02:00 PKT, autumn season): temperature 25.9 degrees celsius feels like 30.2 degrees humidex 36.8 humidity 87 percent wind 10.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.65, onion=1.00. Rolling mean temperature 6h: 27.2. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101822",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 22:00:00+00:00",
+    "temp_c": 25.8,
+    "humidity_pct": 87.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101822 (Karachi, 2026-10-19 03:00 PKT, autumn season): temperature 25.8 degrees celsius feels like 29.9 degrees humidex 36.5 humidity 87 percent wind 11.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.64, onion=1.00. Rolling mean temperature 6h: 26.7. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101823",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-18 23:00:00+00:00",
+    "temp_c": 25.5,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101823 (Karachi, 2026-10-19 04:00 PKT, autumn season): temperature 25.5 degrees celsius feels like 29.4 degrees humidex 35.6 humidity 85 percent wind 9.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.62, onion=1.00. Rolling mean temperature 6h: 26.4. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101900",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 00:00:00+00:00",
+    "temp_c": 26.1,
+    "humidity_pct": 68.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101900 (Karachi, 2026-10-19 05:00 PKT, autumn season): temperature 26.1 degrees celsius feels like 28.7 degrees humidex 33.5 humidity 68 percent wind 7.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.66, onion=1.00. Rolling mean temperature 6h: 26.1. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101901",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 01:00:00+00:00",
+    "temp_c": 25.5,
+    "humidity_pct": 64.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101901 (Karachi, 2026-10-19 06:00 PKT, autumn season): temperature 25.5 degrees celsius feels like 27.6 degrees humidex 31.7 humidity 64 percent wind 6.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.62, onion=1.00. Rolling mean temperature 6h: 25.9. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101902",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 02:00:00+00:00",
+    "temp_c": 25.5,
+    "humidity_pct": 63.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101902 (Karachi, 2026-10-19 07:00 PKT, autumn season): temperature 25.5 degrees celsius feels like 27.5 degrees humidex 31.5 humidity 63 percent wind 5.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.62, onion=1.00. Rolling mean temperature 6h: 25.7. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101903",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 03:00:00+00:00",
+    "temp_c": 27.1,
+    "humidity_pct": 56.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101903 (Karachi, 2026-10-19 08:00 PKT, autumn season): temperature 27.1 degrees celsius feels like 29.1 degrees humidex 32.8 humidity 56 percent wind 4.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.70, onion=1.00. Rolling mean temperature 6h: 25.9. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101904",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 04:00:00+00:00",
+    "temp_c": 30.1,
+    "humidity_pct": 44.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101904 (Karachi, 2026-10-19 09:00 PKT, autumn season): temperature 30.1 degrees celsius feels like 31.7 degrees humidex 35.1 humidity 44 percent wind 3.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.85, onion=1.00. Rolling mean temperature 6h: 26.6. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101905",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 05:00:00+00:00",
+    "temp_c": 33.6,
+    "humidity_pct": 29.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101905 (Karachi, 2026-10-19 10:00 PKT, autumn season): temperature 33.6 degrees celsius feels like 33.9 degrees humidex 36.5 humidity 29 percent wind 3.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 28.0. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101906",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 06:00:00+00:00",
+    "temp_c": 35.1,
+    "humidity_pct": 23.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101906 (Karachi, 2026-10-19 11:00 PKT, autumn season): temperature 35.1 degrees celsius feels like 36.0 degrees humidex 36.8 humidity 23 percent wind 1.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 29.5. 24h max temperature: 35.4."
+  },
+  {
+    "row_id": "KHI_2026101907",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 07:00:00+00:00",
+    "temp_c": 35.5,
+    "humidity_pct": 24.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101907 (Karachi, 2026-10-19 12:00 PKT, autumn season): temperature 35.5 degrees celsius feels like 36.6 degrees humidex 37.7 humidity 24 percent wind 6.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 31.1. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101908",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 08:00:00+00:00",
+    "temp_c": 35.0,
+    "humidity_pct": 34.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101908 (Karachi, 2026-10-19 13:00 PKT, autumn season): temperature 35.0 degrees celsius feels like 37.2 degrees humidex 40.2 humidity 34 percent wind 11.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 32.7. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101909",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 09:00:00+00:00",
+    "temp_c": 34.7,
+    "humidity_pct": 36.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101909 (Karachi, 2026-10-19 14:00 PKT, autumn season): temperature 34.7 degrees celsius feels like 36.1 degrees humidex 40.3 humidity 36 percent wind 12.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.0. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101910",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 10:00:00+00:00",
+    "temp_c": 34.7,
+    "humidity_pct": 32.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101910 (Karachi, 2026-10-19 15:00 PKT, autumn season): temperature 34.7 degrees celsius feels like 35.0 degrees humidex 39.0 humidity 32 percent wind 12.8 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.8. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101911",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 11:00:00+00:00",
+    "temp_c": 34.3,
+    "humidity_pct": 32.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101911 (Karachi, 2026-10-19 16:00 PKT, autumn season): temperature 34.3 degrees celsius feels like 34.3 degrees humidex 38.4 humidity 32 percent wind 11.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.9. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101912",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 12:00:00+00:00",
+    "temp_c": 33.8,
+    "humidity_pct": 28.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101912 (Karachi, 2026-10-19 17:00 PKT, autumn season): temperature 33.8 degrees celsius feels like 33.0 degrees humidex 36.5 humidity 28 percent wind 11.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=1.00, onion=1.00. Rolling mean temperature 6h: 34.7. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101913",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 13:00:00+00:00",
+    "temp_c": 31.9,
+    "humidity_pct": 36.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101913 (Karachi, 2026-10-19 18:00 PKT, autumn season): temperature 31.9 degrees celsius feels like 32.3 degrees humidex 35.9 humidity 36 percent wind 8.5 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.94, onion=1.00. Rolling mean temperature 6h: 34.1. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101914",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 14:00:00+00:00",
+    "temp_c": 30.5,
+    "humidity_pct": 44.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101914 (Karachi, 2026-10-19 19:00 PKT, autumn season): temperature 30.5 degrees celsius feels like 31.7 degrees humidex 35.7 humidity 44 percent wind 8.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.88, onion=1.00. Rolling mean temperature 6h: 33.3. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101915",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 15:00:00+00:00",
+    "temp_c": 29.4,
+    "humidity_pct": 51.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101915 (Karachi, 2026-10-19 20:00 PKT, autumn season): temperature 29.4 degrees celsius feels like 31.1 degrees humidex 35.6 humidity 51 percent wind 8.3 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.82, onion=1.00. Rolling mean temperature 6h: 32.4. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101916",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 16:00:00+00:00",
+    "temp_c": 28.4,
+    "humidity_pct": 58.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101916 (Karachi, 2026-10-19 21:00 PKT, autumn season): temperature 28.4 degrees celsius feels like 30.5 degrees humidex 35.5 humidity 58 percent wind 9.6 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.77, onion=1.00. Rolling mean temperature 6h: 31.4. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101917",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 17:00:00+00:00",
+    "temp_c": 27.6,
+    "humidity_pct": 67.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101917 (Karachi, 2026-10-19 22:00 PKT, autumn season): temperature 27.6 degrees celsius feels like 30.4 degrees humidex 36.0 humidity 67 percent wind 10.1 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.73, onion=1.00. Rolling mean temperature 6h: 30.3. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101918",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 18:00:00+00:00",
+    "temp_c": 27.0,
+    "humidity_pct": 75.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101918 (Karachi, 2026-10-19 23:00 PKT, autumn season): temperature 27.0 degrees celsius feels like 30.8 degrees humidex 36.5 humidity 75 percent wind 7.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.70, onion=1.00. Rolling mean temperature 6h: 29.1. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101919",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 19:00:00+00:00",
+    "temp_c": 26.4,
+    "humidity_pct": 80.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101919 (Karachi, 2026-10-20 00:00 PKT, autumn season): temperature 26.4 degrees celsius feels like 30.5 degrees humidex 36.4 humidity 80 percent wind 8.0 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.67, onion=1.00. Rolling mean temperature 6h: 28.2. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101920",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 20:00:00+00:00",
+    "temp_c": 26.0,
+    "humidity_pct": 82.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101920 (Karachi, 2026-10-20 01:00 PKT, autumn season): temperature 26.0 degrees celsius feels like 30.2 degrees humidex 36.0 humidity 82 percent wind 7.9 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.65, onion=1.00. Rolling mean temperature 6h: 27.5. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101921",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 21:00:00+00:00",
+    "temp_c": 25.7,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101921 (Karachi, 2026-10-20 02:00 PKT, autumn season): temperature 25.7 degrees celsius feels like 29.7 degrees humidex 36.0 humidity 85 percent wind 10.2 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.64, onion=1.00. Rolling mean temperature 6h: 26.9. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101922",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 22:00:00+00:00",
+    "temp_c": 25.5,
+    "humidity_pct": 85.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101922 (Karachi, 2026-10-20 03:00 PKT, autumn season): temperature 25.5 degrees celsius feels like 29.4 degrees humidex 35.6 humidity 85 percent wind 9.7 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.62, onion=1.00. Rolling mean temperature 6h: 26.4. 24h max temperature: 35.5."
+  },
+  {
+    "row_id": "KHI_2026101923",
+    "city": "Karachi",
+    "timestamp_utc": "2026-10-19 23:00:00+00:00",
+    "temp_c": 25.2,
+    "humidity_pct": 84.0,
+    "heat_alert_any": 1,
+    "season": "autumn",
+    "text": "At KHI_2026101923 (Karachi, 2026-10-20 04:00 PKT, autumn season): temperature 25.2 degrees celsius feels like 29.1 degrees humidex 34.8 humidity 84 percent wind 7.4 kmh precipitation 0.0 mm. Heat alerts: potato=ALERT, tomato=ALERT, onion=ALERT. Heat risk scores: potato=1.00, tomato=0.61, onion=1.00. Rolling mean temperature 6h: 26.0. 24h max temperature: 35.5."
+  }
+]

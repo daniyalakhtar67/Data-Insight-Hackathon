@@ -1,0 +1,9 @@
+group_type,group_value,n_rows,mae,max_error
+season,autumn,455,0.2242,1.1786
+season,monsoon,889,0.2193,4.555
+hour_bucket,afternoon (12–17),336,0.1964,0.9475
+hour_bucket,evening (18–23),336,0.1553,0.9407
+hour_bucket,morning (6–11),336,0.2849,4.555
+hour_bucket,night (0–5),336,0.2473,1.1956
+is_flagged,False,1332,0.2194,4.555
+is_flagged,True,12,0.3914,0.9226

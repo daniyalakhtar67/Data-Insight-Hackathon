@@ -1,0 +1,23 @@
+ColdChain Watch Pakistan: Team Summary   (project is strictly for pakistani citites and regions)
+
+What it is: A decision-support tool for cold-store and warehouse managers in Pakistan. It uses climate data to show when stored fruits and vegetables face heat risk, and what that means for pre-cooling, truck dispatch and hold-or-sell decisions.
+
+Primary user: A warehouse manager (e.g. a potato cold store in Okara, a fruit warehouse in Multan).
+
+Two targets:
+
+A. Heat-exposure hours: forecast hours in the next 24-72h that exceed a crop-specific temperature or humidity threshold. Baseline: same hour last week.
+B. Price outlook: forecast 1-4 week changes in tomato, onion and potato prices. Baseline: last observed price.
+
+Data: Open-Meteo (hourly weather), WFP prices on HDX, plus one off-track credible source (PMD, PBS price reports or a market committee). Storage thresholds come from FAO or Pakistani horticulture guidelines.
+
+Agents:
+
+Data Quality Agent: fixes units and time zones, fills short gaps, flags stale or missing data, and logs every decision.
+Insight Agent (RAG): gives cited advice with row IDs, and says “I don’t know” when it has no support.
+
+Pipeline: Prefect runs hourly, and a Hugging Face Space shows freshness, quality and last run.
+
+Key honesty point: We predict heat exposure and price outlook, not actual spoilage, because no public spoilage data exists.
+
+Business model: Cold-store owners pay a subscription for alerts, and the value is lower energy costs and fewer heat losses.
