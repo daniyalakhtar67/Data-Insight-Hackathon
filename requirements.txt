@@ -1,0 +1,11 @@
+pandas
+numpy
+pyarrow
+duckdb
+scikit-learn
+joblib
+streamlit
+plotly
+requests
+loguru
+python-dotenv
