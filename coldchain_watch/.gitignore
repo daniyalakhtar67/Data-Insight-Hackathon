@@ -52,11 +52,13 @@ model/artifacts/*.joblib
 
 
 # -----------------------------------------------------------------------------
-# RAG STORE — numpy vector arrays (binary, regeneratable via `make index`)
-# The vectorizer .pkl files are also ignored (same reason)
+# RAG STORE — numpy vector arrays and vectorizer pickles
+# These are small (<1MB total) and needed for the Insight Agent on deployment.
+# TRACKED — do not ignore.
+# Large model pkl files (RF models, 30MB each) are still ignored below.
 # -----------------------------------------------------------------------------
-data/rag_store/*.npy
-data/rag_store/*.pkl
+# data/rag_store/*.npy    ← REMOVED: now tracked for Streamlit Cloud
+# data/rag_store/*.pkl    ← REMOVED: now tracked for Streamlit Cloud
 
 
 # -----------------------------------------------------------------------------

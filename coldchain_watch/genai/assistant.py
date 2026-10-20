@@ -118,20 +118,20 @@ class InsightAgent:
     def __init__(self):
         # Try Streamlit secrets first (cloud deployment),
         # then fall back to environment variable (local .env)
+        self._api_key = ""
+
         try:
             import streamlit as st
-            self._api_key = st.secrets.get("GEMINI_API_KEY", "")
+            # st.secrets behaves like a dict — use get() safely
+            self._api_key = st.secrets.get("GEMINI_API_KEY", "") or ""
         except Exception:
-            self._api_key = ""
+            pass  # not running inside Streamlit, use .env instead
 
         if not self._api_key:
-            self._api_key = os.getenv("GEMINI_API_KEY", "")
+            self._api_key = os.getenv("GEMINI_API_KEY", "") or ""
 
-        if not self._api_key or self._api_key == "your_gemini_api_key_here":
-            logger.warning(
-                "GEMINI_API_KEY not set. "
-                "Get a free key at https://aistudio.google.com and set it in .env"
-            )
+        if not self._api_key or self._api_key.strip() == "your_gemini_api_key_here":
+            logger.warning("GEMINI_API_KEY not set — falling back to rule-based answers")
             self._gemini_available = False
         else:
             self._gemini_available = True
