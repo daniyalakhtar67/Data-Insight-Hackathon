@@ -22,12 +22,20 @@ Deploy:       Push to Hugging Face Space (same command)
 import csv
 import json
 import os
+import sys
 from datetime import datetime, timezone
 
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+
+# ─── Path setup ─────────────────────────────────────────────────────────────
+# Streamlit Cloud runs from repo root. Add coldchain_watch/ to sys.path
+# so that `from genai.assistant import ...` resolves correctly.
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if BASE_DIR not in sys.path:
+    sys.path.insert(0, BASE_DIR)
 
 # ─── Page config ────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -38,7 +46,6 @@ st.set_page_config(
 )
 
 # ─── Paths ──────────────────────────────────────────────────────────────────
-BASE_DIR      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GOLD_PATH     = os.path.join(BASE_DIR, "data", "gold", "weather_gold_karachi.parquet")
 MANIFEST_PATH = os.path.join(BASE_DIR, "data", "manifest.csv")
 METRICS_PATH  = os.path.join(BASE_DIR, "model", "artifacts", "metrics_summary.json")
@@ -447,8 +454,6 @@ with tab4:
     if st.button("Ask", type="primary") and question:
         with st.spinner("Retrieving evidence and generating answer..."):
             try:
-                import sys
-                sys.path.insert(0, BASE_DIR)
                 from genai.assistant import InsightAgent
                 agent = InsightAgent()
                 answer = agent.ask(question)
