@@ -34,17 +34,24 @@ from sklearn.preprocessing import normalize
 from pipeline.config import CROP_THRESHOLDS, GOLD_DIR
 from rag.documents import get_all_chunks
 
-os.makedirs("data/logs", exist_ok=True)
-os.makedirs("data/rag_store", exist_ok=True)
+# ---------------------------------------------------------------------------
+# Path anchor — all data paths are relative to the coldchain_watch/ root,
+# NOT the process working directory. This fixes Streamlit Cloud deployment
+# where cwd is repo root, not coldchain_watch/.
+# ---------------------------------------------------------------------------
+_MODULE_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # coldchain_watch/
+
+os.makedirs(os.path.join(_MODULE_DIR, "data", "logs"),      exist_ok=True)
+os.makedirs(os.path.join(_MODULE_DIR, "data", "rag_store"), exist_ok=True)
 
 logger.add(
-    "data/logs/rag_index_{time:YYYY-MM-DD}.log",
+    os.path.join(_MODULE_DIR, "data", "logs", "rag_index_{time:YYYY-MM-DD}.log"),
     rotation="1 day",
     level="INFO",
     format="{time:YYYY-MM-DD HH:mm:ss} | {level} | {message}",
 )
 
-RAG_STORE_DIR = "data/rag_store"
+RAG_STORE_DIR = os.path.join(_MODULE_DIR, "data", "rag_store")
 RECENT_ROWS   = 168
 
 DOCS_VECTORIZER_PATH = os.path.join(RAG_STORE_DIR, "docs_vectorizer.pkl")

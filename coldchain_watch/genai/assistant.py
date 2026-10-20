@@ -36,9 +36,11 @@ from rag.retrieve import InsightRetriever, EvidenceBundle
 
 load_dotenv()
 
-os.makedirs("data/logs", exist_ok=True)
+# Anchor logs dir to module location — fixes Streamlit Cloud cwd mismatch
+_AGENT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.makedirs(os.path.join(_AGENT_DIR, "data", "logs"), exist_ok=True)
 logger.add(
-    "data/logs/assistant_{time:YYYY-MM-DD}.log",
+    os.path.join(_AGENT_DIR, "data", "logs", "assistant_{time:YYYY-MM-DD}.log"),
     rotation="1 day",
     level="INFO",
     format="{time:YYYY-MM-DD HH:mm:ss} | {level} | {message}",

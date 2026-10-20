@@ -7,6 +7,7 @@ Edit this file to add more cities or crops — nothing else needs to change.
 """
 
 from datetime import datetime, timedelta
+import os
 
 # ---------------------------------------------------------------------------
 # Locations to monitor
@@ -88,12 +89,15 @@ CROP_THRESHOLDS = {
 }
 
 # ---------------------------------------------------------------------------
-# File paths
+# File paths — anchored to coldchain_watch/ regardless of working directory
+# This fixes Streamlit Cloud where cwd = repo root, not coldchain_watch/
 # ---------------------------------------------------------------------------
-BRONZE_WEATHER_DIR = "data/bronze/weather"
-BRONZE_PRICES_DIR  = "data/bronze/prices"
-SILVER_DIR         = "data/silver"
-GOLD_DIR           = "data/gold"
-LOGS_DIR           = "data/logs"
-MANIFEST_FILE      = "data/manifest.csv"
-WAREHOUSE_DB       = "data/coldchain.duckdb"
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # coldchain_watch/
+
+BRONZE_WEATHER_DIR = os.path.join(_ROOT, "data", "bronze", "weather")
+BRONZE_PRICES_DIR  = os.path.join(_ROOT, "data", "bronze", "prices")
+SILVER_DIR         = os.path.join(_ROOT, "data", "silver")
+GOLD_DIR           = os.path.join(_ROOT, "data", "gold")
+LOGS_DIR           = os.path.join(_ROOT, "data", "logs")
+MANIFEST_FILE      = os.path.join(_ROOT, "data", "manifest.csv")
+WAREHOUSE_DB       = os.path.join(_ROOT, "data", "coldchain.duckdb")
