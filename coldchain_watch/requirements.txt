@@ -1,15 +1,35 @@
-duckdb==0.10.3
+# ColdChain Watch Pakistan — Python dependencies
+# Pinned versions for reproducibility (hackathon guide requirement)
+# Used by: local development + Streamlit Community Cloud deployment
+
+# ── Core data stack ──────────────────────────────────────────────────────────
 pandas==2.2.2
 numpy==1.26.4
-requests==2.32.3
-loguru==0.7.2
-pandera==0.20.3
-python-dotenv==1.0.1
-fpdf2==2.7.9
+pyarrow==17.0.0
+
+# ── Database ─────────────────────────────────────────────────────────────────
+duckdb==0.10.3
+
+# ── Machine learning ─────────────────────────────────────────────────────────
+scikit-learn==1.5.0
+joblib==1.4.2
+
+# ── Dashboard ────────────────────────────────────────────────────────────────
 streamlit==1.36.0
 plotly==5.22.0
-prefect==2.19.9
-scikit-learn==1.5.0
-sentence-transformers==3.0.1
-chromadb==0.5.3
-google-generativeai==0.7.2
+
+# ── HTTP requests (data ingestion + Gemini API) ───────────────────────────────
+requests==2.32.3
+
+# ── RAG / retrieval ───────────────────────────────────────────────────────────
+# Uses scikit-learn TF-IDF only — no torch, no chromadb, no C++ required
+
+# ── Logging ──────────────────────────────────────────────────────────────────
+loguru==0.7.2
+
+# ── Environment / secrets ─────────────────────────────────────────────────────
+python-dotenv==1.0.1
+
+# ── Scheduling (local only, not needed on Streamlit Cloud) ────────────────────
+# schedule==1.2.2   ← commented out: Streamlit Cloud doesn't run the scheduler
+# prefect==2.19.9   ← commented out: not needed for dashboard-only deployment

@@ -17,6 +17,7 @@
 *.p12
 secrets.json
 credentials.json
+.streamlit/secrets.toml
 
 
 # -----------------------------------------------------------------------------
