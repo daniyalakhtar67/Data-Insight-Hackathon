@@ -1,11 +1,27 @@
 [theme]
-primaryColor = "#16a34a"
-backgroundColor = "#0f172a"
-secondaryBackgroundColor = "#1e293b"
-textColor = "#e2e8f0"
+# Default mode on first visit
+base = "light"
+
+# Colours used when the user picks "Light" (or System on a light device)
+[theme.light]
+base = "light"
+primaryColor = "#4f5df0"
+backgroundColor = "#a6e2f3"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#14295a"
+font = "sans serif"
+
+# Colours used when the user picks "Dark" (or System on a dark device)
+[theme.dark]
+base = "dark"
+primaryColor = "#7c8cff"
+backgroundColor = "#0a1a44"
+secondaryBackgroundColor = "#10234f"
+textColor = "#e6edff"
 font = "sans serif"
 
 [server]
+runOnSave = true
 headless = true
 enableCORS = false
 port = 8501
